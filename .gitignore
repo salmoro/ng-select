@@ -1,7 +1,8 @@
 /.angular/cache
 node_modules
 coverage
-dist
+dist/*
+!dist/ng-select
 out-tsc
 .idea
 *.iml
